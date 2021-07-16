@@ -1,18 +1,14 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Testimony to City Council Budget Hearing re Sidewalk Safety
+date: 2021-04-02
 tags:
-  - number 2
+  - testimony
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I'm testifying in support of an amendment submitted by my Councilmember Fukunaga, for pedestrian safety and sidewalk improvements in Kalihi Valley. I'm a member of our neighborhood board and the co-convener of a committee we had established to consider pedestrian safety.
 
-## Section Header
+Kalihi Valley needs safe sidewalks. I, like my fellow neighbors, regularly have to walk in the street due to the absence of safe sidewalks. It's a dangerous and precarious situation, and we appreciate the intent of this amendment.
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+One additional note: the undeveloped sidewalks are often impassable because they have become parking for private vehicles. I'm hopeful that our Council will continue to develop parking management strategies that will meet the needs of our multimodal neighborhoods.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Mahalo to this Committee for considering our community's request, and a sincere thanks to Councilmember Fukunaga for introducing this amendment.
