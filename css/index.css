@@ -246,3 +246,4 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 article a {background:yellow;text-decoration:none;}
+article {margin-top:20px;}
