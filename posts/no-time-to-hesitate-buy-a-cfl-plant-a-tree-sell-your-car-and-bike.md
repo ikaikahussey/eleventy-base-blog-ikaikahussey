@@ -2,7 +2,6 @@
 title: 'No time to hesitate: buy a CFL, plant a tree, sell your car, get a bike. Now.'
 date: '2007-10-24T10:02:24+00:00'
 status: publish
-permalink: /2007/10/24/no-time-to-hesitate-buy-a-cfl-plant-a-tree-sell-your-car-and-bike
 layout: layouts/post.njk
 
 ---
